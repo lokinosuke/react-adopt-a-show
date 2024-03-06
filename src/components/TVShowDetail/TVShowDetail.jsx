@@ -1,4 +1,3 @@
-import s from "./style.module.css";
 import { FiveStarRating } from "../FiveStarRating/FiveStarRating";
 
 export function TVShowDetail({ tvShow }) {
